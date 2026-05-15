@@ -1,0 +1,73 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Environnements virtuels ---
+.venv/
+venv/
+ENV/
+env/
+.env
+.env.*
+!.env.example
+
+# --- Outils / qualité ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- IDE / éditeurs ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# --- macOS / Windows ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- PDF / données locales (décommenter si besoin) ---
+# default.pdf
+
+# --- Logs & temporaires ---
+*.log
+tmp/
+temp/
+.cache/

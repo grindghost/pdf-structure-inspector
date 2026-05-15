@@ -1,0 +1,5 @@
+# Runtime dependencies — aligner les versions avec votre environnement si besoin
+PyMuPDF>=1.22.2
+PyPDF2>=3.0.1
+pdfminer.six>=20221105
+Pillow>=9.0.0
