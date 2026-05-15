@@ -63,8 +63,8 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# --- PDF / données locales (décommenter si besoin) ---
-# default.pdf
+# --- PDF / données locales ---
+default.pdf
 
 # --- Logs & temporaires ---
 *.log
